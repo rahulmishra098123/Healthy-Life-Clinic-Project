@@ -92,4 +92,15 @@ select
 from patients limit 1;
 -- The number of Male patients is higher than Female patients
 ```
-## Key Insights
+## Key Insights 
+- The north region have the highest patient counts.
+- Tamiflu medication is prescribed more frequently.
+- The clinic serves patients across different age groups and genders.
+
+
+  ## Condusion
+  This mini SQL project demonstrates how healthcare data can be analyzed using
+  basic SQL queries to answer real-world questions.
+
+ The project highlights the importance of SQL in healthcare analytics and serves
+ as a foundation for more advanced data analysis projects.
