@@ -44,7 +44,6 @@ The dataset contains 100 patient records from HealthyLife Clinic.
 
 
 ## ⚒️ Tool used
-- SQL (T-SQL)
 - MYSQL
 
 ## SQL Analysis & Queries
